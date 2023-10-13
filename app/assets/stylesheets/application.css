@@ -1,4 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 13px;
+  line-height: 30px;
+  margin: 33px;
+}
+
+header {
+  width: 90%;
+  padding: 15px 0;
+  margin: 10px auto 0;
+}
+
+
+main {
+}
+
+.flash {
+  color: green;
+}
+
+table {
+  width: 90%;
+}
+
+
+td,th {
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.Edit {
+
+}
+
+.Edit span {
+  font-weight: bold;
+}
 /*
+
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
